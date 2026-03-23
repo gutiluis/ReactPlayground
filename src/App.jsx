@@ -117,12 +117,3 @@ function App() {
     </>
   )
 }
-
-export default function Introduction() {
-  const name = "goku";
-  return (
-    <div>
-      <h1>Hello {name}</h1>
-    </div>
-  )
-}
