@@ -24,6 +24,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ```bash
 git clone https://github.com/gutiluis/ReactPlayground.git
+cd ReactPlayground
 npm install
 npm run dev
 ```
