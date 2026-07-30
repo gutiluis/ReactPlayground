@@ -20,13 +20,20 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ---
 
-### How to run
+## How to run
 
-- clone repo; then
 ```bash
+git clone https://github.com/gutiluis/ReactPlayground.git
 npm install
 npm run dev
 ```
+
+---
+
+## Tech-Stack
+
+- React
+- Vite
 
 ---
 
