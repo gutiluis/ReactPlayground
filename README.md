@@ -1,3 +1,6 @@
+>[!WARNING]
+>CURRENTLY UNDER DEVELOPMENT
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -15,9 +18,33 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-### How to run:
+---
+
+### How to run
+
 - clone repo; then
 ```bash
 npm install
 npm run dev
 ```
+
+---
+
+## Contributing
+
+If you are interested in reporting/fixing issues and contributing directly to the code base, please see [CONTRIBUTING.md](https://github.com/gutiluis/.github/blob/main/CONTRIBUTING.md) for more information on what we're looking for and how to get started.
+
+---
+
+## Community
+
+Info on reporting bugs, getting help, finding third-party tools and sample apps, and more can be found on our **Community** channels:
+* **Discord:** [Community channel](https://discord.gg/5xdAFuadP)
+* **Slack Workspace:** [technobool.slack.com](https://technobool.slack.com)
+* **GitHub Discussions:** [Open a discussion](https://github.com/gutiluis/ReactPlayground/discussions)
+
+---
+
+## License
+
+[MIT LICENSE](LICENSE)
