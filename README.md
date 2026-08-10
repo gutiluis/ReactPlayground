@@ -37,6 +37,7 @@ npm run dev
 - Vite
 - JavaScript
 - HTML
+- CSS
 
 ---
 
