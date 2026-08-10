@@ -38,6 +38,7 @@ npm run dev
 - JavaScript
 - HTML
 - CSS
+- JSON
 
 ---
 
